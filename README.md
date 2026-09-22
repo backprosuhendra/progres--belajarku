@@ -11,3 +11,6 @@ Belajar memulai kelas pemrograman Java(56%)
 * belajar dasar-dasar java, seperti struktur dasar, tipe data, string, operator, input output, dan array
 * belajar control flow dalam bahasa java seperti, perulangan dan percabangan
 * belajar tipe data koleksi seperti list, set dan map
+
+**28 September 2026**:<br>
+kelas tambahan untuk pengantar OOP
