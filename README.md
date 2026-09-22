@@ -14,3 +14,6 @@ Belajar memulai kelas pemrograman Java(56%)
 
 **28 September 2026**:<br>
 kelas tambahan untuk pengantar OOP
+
+**29 September 2026**<br>
+bagian ini apakah akan conflict
