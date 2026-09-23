@@ -17,3 +17,6 @@ kelas tambahan untuk pengantar OOP
 
 **29 September 2026**<br>
 bagian ini apakah akan conflict
+
+**30 September 2026**<br>
+hasil fork
